@@ -1,4 +1,4 @@
-# 🚀 :contentReference[oaicite:0]{index=0}
+# 🚀 INDESAD
 
 **INDESAD** es una consultora tecnológica chilena especializada en **integración de sistemas, desarrollo de software a medida y automatización de procesos empresariales**, con fuerte foco en **ERP, APIs, plataformas web y soluciones escalables**.
 
